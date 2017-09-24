@@ -1,0 +1,21 @@
+{
+    "name": "eveningdesign/laravel-database",
+    "description": "Helpers for models and database operations",
+    "keywords": ["helper", "model", "database"],
+    "license": "MIT",
+    "require": {
+        "laravel/framework": "5.*"
+    },
+    "authors": [
+        {
+            "name": "Ryan Shuya",
+            "email": "ryan@eveningdesign.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "EveningDesign\\Database\\": "src/"
+        }
+    }
+}
