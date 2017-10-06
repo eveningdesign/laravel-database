@@ -1,5 +1,5 @@
 {
-    "name": "eveningdesign/laravel-database",
+    "name": "eveningdesign/laravel-db-helpers",
     "description": "Helpers for models and database operations",
     "keywords": ["helper", "model", "database"],
     "license": "MIT",
